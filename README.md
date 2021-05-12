@@ -8,7 +8,7 @@ And so, in 2019, I made the decision to return to education to achieve my goal o
 
 As a family man, with a wife and two children aged 6 and 2, I could not have done this without their support. I find having children keeps my imagination alive and they are a good reminder that sometimes we all need to have fun.
 
-You can reach me via (https://www.linkedin.com/in/loren-penny-6a80a233/ "LinkedIn") or check out my (https://lorenpenny.dev/about/ "Portfolio") 
+You can reach me via [LinkedIn](https://www.linkedin.com/in/loren-penny-6a80a233/) or check out my [Portfolio](https://lorenpenny.dev/about/) 
 <!---
 Loz667/Loz667 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
