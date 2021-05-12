@@ -1,4 +1,4 @@
-#👋 Hi, I’m Loren
+#Hi, I’m Loren
 
 Computer games have been a passion of mine from an early age. I still remember the Christmas I unwrapped my Sega Mega Drive and the hours I spent embodying a little blue hedgehog on screen.
 
